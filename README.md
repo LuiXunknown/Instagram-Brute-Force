@@ -11,7 +11,6 @@ nano acc.txt
 ```
 > username:password
 > 
-> namapengguna:katakunci
 
 run ```python main.py```
 
